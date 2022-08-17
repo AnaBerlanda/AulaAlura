@@ -1,0 +1,33 @@
+p{
+    text-align: center;
+}
+em strong{
+    color: red;
+}
+h1{
+    text-align: center;
+}
+#banner{
+    width: 100%;
+}
+.principal{
+    background-color:#CCCCCC;
+
+
+}
+.itens{
+    font-style: italic;
+}
+.beneficios{
+    background-color:#FFFFFF;
+}
+h2{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+}
+.imgbeneficios{
+    width: 50%;
+}

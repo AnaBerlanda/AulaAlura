@@ -1,0 +1,25 @@
+body{
+}
+p{
+    text-align: center;
+}
+em strong{
+    color: red;
+}
+h1{
+    text-align: center;
+}
+#banner{
+    width: 100%;
+}
+.principal{
+    background-color:darkgray;
+
+
+}
+.itens{
+    font-style: italic;
+}
+.beneficios{
+    background-color: white;
+}
